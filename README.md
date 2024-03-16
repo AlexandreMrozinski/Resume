@@ -46,8 +46,6 @@ Study on the prevalence of antibiotic resistance in commensal bacterial _Veillon
 ## 🎤 Workshop and Conferences
 - Attended the workshop on "<a href="https://maignienlab.gitlab.io/ebame/" target="_blank">EBAME : _Emerging Bioinformatics Approaches for Microbial Ecogenomics_ </a>" at <a href="https://www-iuem.univ-brest.fr" target="_blank">IUEM</a>, France 2023
 
-## 📜 Publications
-
 ## 📚 References
 
 |     |     |
@@ -70,3 +68,10 @@ Study on the prevalence of antibiotic resistance in commensal bacterial _Veillon
 | Alexandre Mrozinski | 
 | <a href="mailto:alexandremrski@gmail.com">alexandremrski@gmail.com</a> | 
 | <a href="https://linkedin.com/in/alexandre-mrozinski-0a7026239/" target="_blank">LinkedIn</a>  | 
+
+<br>
+<br>
+
+##
+
+Thanks to <a href="https://github.com/Allan-gitrepos">Allan Victor</a> for this code 
