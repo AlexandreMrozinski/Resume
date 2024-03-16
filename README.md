@@ -1,13 +1,6 @@
-# Alexandre Mrozinski <img src="https://github.com/AlexandreMrozinski/Resume/assets/114568851/319e3f6f-3a29-4c7a-bd6b-b953e4012d6f" alt="Image" align="right" width="200"/>
+# Alexandre Mrozinski <img src="https://github.com/AlexandreMrozinski/Resume/assets/114568851/a02a9db8-190d-4177-9084-1a264b5a7ef2" alt="Image" align="right" width="200"/>
 
 ### **Microbiologist**
-
-
-
-
-
-
-
 
 #### Summary: 
 Microbiologist specialized in antimicrobial resistance (AMR), applied to environnemental or health.
