@@ -23,7 +23,7 @@ Microbiologist specialized in antimicrobial resistance (AMR), applied to environ
 - **Ph.D.**, looking for		  		
 - **Master's Degree**, Fundamentale and Applied Microbiology, University of Brest (_2022 - 2024_)		        		
 - **Bachelor's Degree**,
-- - Earth Sciences (_2021 - 2022_)
+  - Earth Sciences (_2021 - 2022_)
   - Life Sciences ; Organism and Population Biology - Environment (_2018 - 2021_)
 
 ## 🧫 Research Experience
