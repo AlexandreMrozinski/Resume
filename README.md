@@ -2,10 +2,10 @@
 
 ### **Microbiologist Student**
 
-#### Summary: 
+#### Summary : 
 Specialized in antimicrobial resistance (AMR) applied to environmental and medical fields, I have acquired solid experience in bacterial culture, molecular biology and a mastery of bioinformatics, particularly in the analysis of sequencing products (long and short readings).
 
-#### Technical Skills:
+#### Technical Skills :
 
 - Bio-informatic : metabarcoding and metagenomics analysis
 - Sequencing : shorts and longs reads (Illumina, ONT)
