@@ -1,4 +1,4 @@
-# Alexandre Mrozinski <img src="https://github.com/AlexandreMrozinski/Resume/assets/114568851/a3727ac1-1fbd-44e2-9bb2-c35b164323ab" alt="Image" align="right" width="250"/>
+# Alexandre Mrozinski <img src="https://github.com/AlexandreMrozinski/Resume/assets/114568851/a3727ac1-1fbd-44e2-9bb2-c35b164323ab" alt="Image" align="right" width="200"/>
 
 ### **Microbiologist Student**
 
