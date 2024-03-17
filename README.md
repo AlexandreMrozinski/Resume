@@ -14,10 +14,10 @@ Specialized in antimicrobial resistance (AMR) applied to environmental and medic
   
 ## 🎓 Education
 - **Ph.D.**, looking for		  		
-- **Master's Degree**, Fundamentale and Applied Microbiology, University of Brest (_2022 - 2024_)		        		
+- **Master's Degree**, Fundamentale and Applied Microbiology, University of Brest - France (_2022 - 2024_)		        		
 - **Bachelor's Degree**,
-  - Earth Sciences (_2021 - 2022_)
-  - Life Sciences ; Organism and Population Biology - Environment (_2018 - 2021_)
+  - Earth Sciences, University of Brest - France (_2021 - 2022_)
+  - Life Sciences ; Organism and Population Biology - Environment, University of Brest - France (_2018 - 2021_)
 
 ## 🧫 Research Experience
 - **Master'2 internship @<a href="https://www.ifremer.fr/fr" target="_blank">Ifremer DYNECO Pelagos</a> and <a href="https://www-iuem.univ-brest.fr/" target="_blank">IUEM LEMAR</a> (_6 months from January to June 2024_)**
