@@ -1,6 +1,6 @@
 # Alexandre Mrozinski <img src="https://github.com/AlexandreMrozinski/Resume/assets/114568851/a02a9db8-190d-4177-9084-1a264b5a7ef2" alt="Image" align="right" width="200"/>
 
-### **Microbiologist**
+### **Microbiologist Student**
 
 #### Summary: 
 Specialized in antimicrobial resistance (AMR) applied to environmental and medical fields, I have acquired solid experience in bacterial culture, molecular biology and a mastery of bioinformatics, particularly in the analysis of sequencing products (long and short readings).
