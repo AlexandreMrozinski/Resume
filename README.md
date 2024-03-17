@@ -3,11 +3,11 @@
 ### **Microbiologist**
 
 #### Summary: 
-Microbiologist specialized in antimicrobial resistance (AMR), applied to environnemental or health.
+Specialized in antimicrobial resistance (AMR) applied to environmental and medical fields, I have acquired solid experience in bacterial culture, molecular biology and a mastery of bioinformatics, particularly in the analysis of sequencing products (long and short readings).
 
 #### Technical Skills:
 
-- Bioinformatic : metabarcoding and metagenomics analysis
+- Bio-informatic : metabarcoding and metagenomics analysis
 - Sequencing : shorts and longs reads (Illumina, ONT)
 - Molecular biology : PCR, qPCR
 - Culture : aerobic, anaerobic 
@@ -26,7 +26,7 @@ Microbiologist specialized in antimicrobial resistance (AMR), applied to environ
 
 Directors : Pr. Gwenaëlle Le Blay and Dr. Michèle Gourmelon
 
-Study on the prevalence of resistance in marine bacteria isolated from sediments, water, and digestive glands of clams, using a phenotypic and genotypic approach (qPCR and long-reads sequencing (ONT)).
+Study on the prevalence of resistance in marine bacteria isolated from sediments, water, and digestive glands of clams (_Ruditapes_ _philippinarum_, using a phenotypic and genotypic approach (qPCR and long-reads sequencing (ONT)).
 
 - **Master'1 internship @<a href="https://www.univ-brest.fr/umr1078-genetique-genomique-biotechnologies/fr" target="_blank">INSERM UMR 1078</a> (_2 months from January to February 2023_)**
 
@@ -34,7 +34,7 @@ Study on the prevalence of resistance in marine bacteria isolated from sediments
 
 Director : Dr. Geneviève Hery-Arnaud
 
-Study on the prevalence of antibiotic resistance in commensal bacterial _Veillonella_ spp. isolated from the lungs of patients with various respiratory pathologies, using a genotypic approach.
+Study on the prevalence of antibiotic resistance in commensal bacterial _Veillonella_ spp. isolated from the lungs of patients with various respiratory pathologies, including cystic fibrosis, using a genotypic approach.
 
 ## 🎤 Workshop and Conferences
 - Attended the workshop on "<a href="https://maignienlab.gitlab.io/ebame/" target="_blank">EBAME : _Emerging Bioinformatics Approaches for Microbial Ecogenomics_ </a>" at <a href="https://www-iuem.univ-brest.fr" target="_blank">IUEM</a>, France 2023
