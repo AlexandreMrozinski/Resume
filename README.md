@@ -3,7 +3,7 @@
 ### **Microbiologist Student**
 
 #### Summary : 
-Specializing in antimicrobial resistance (AMR) as applied to both environmental and medical contexts, I have developed extensive experience in bacterial culture, molecular biology, and proficient skills in bioinformatics, particularly in the analysis of sequencing data, encompassing both long and short reads.
+Studying antimicrobial resistance, through two internships undertaken in environmental and medical fields, I have gained a solid experience in bacterial culture, molecular biology, and bioinformatics, particularly in the analysis of long and short-read sequencing products.
 
 #### Technical Skills :
 
@@ -24,9 +24,9 @@ Specializing in antimicrobial resistance (AMR) as applied to both environmental 
 
 **The land-sea continuum and antibiotic-resistant bacteria**
 
-Directors : Pr. Gwenaëlle Le Blay and Dr. Michèle Gourmelon
+Directors : Dr. Michèle Gourmelon and Pr. Gwenaëlle Le Blay
 
-Study on the prevalence of resistance in marine bacteria isolated from sediments, water, and digestive glands of clams (_Ruditapes_ _philippinarum_, using a phenotypic and genotypic approach (qPCR and long-reads sequencing (ONT)).
+Study on the prevalence of resistance in marine bacteria isolated from sediments, water, and digestive glands of clams (_Ruditapes_ _philippinarum_), by a phenotypic and genotypic approach using qPCR and whole genome sequencing by long-reads sequencing (ONT).
 
 - **Master'1 internship @<a href="https://www.univ-brest.fr/umr1078-genetique-genomique-biotechnologies/fr" target="_blank">INSERM UMR 1078</a> (_2 months from January to February 2023_)**
 
@@ -43,7 +43,7 @@ Study on the prevalence of antibiotic resistance in commensal bacterial _Veillon
 
 |     |     |
 |:----|:----|
-| **Name:** | **Pr. Michèle Gourmelon** |
+| **Name:** | **Dr. Michèle Gourmelon** |
 | **Position:** | Researcher |
 | **Organization:** | Ifrmer DYNECO Pelagos, Plouzané, France |
 | **E-mail:** | <a href="mailto:Michele.Gourmelon@ifremer.fr">Michele.Gourmelon@ifremer.fr</a> |
