@@ -20,7 +20,7 @@ Studying antimicrobial resistance, through two internships undertaken in environ
   - Life Sciences ; Organism and Population Biology - Environment, University of Brest - France (_2018 - 2021_)
 
 ## 🧫 Research Experience
-- **Master'2 internship @<a href="https://www.ifremer.fr/fr" target="_blank">Ifremer DYNECO Pelagos</a> and <a href="https://www-iuem.univ-brest.fr/" target="_blank">IUEM LEMAR</a> (_6 months from January to June 2024_)**
+- **Master'2 internship at <a href="https://www.ifremer.fr/fr" target="_blank">Ifremer DYNECO Pelagos</a> and <a href="https://www-iuem.univ-brest.fr/" target="_blank">IUEM LEMAR</a> (_6 months from January to June 2024_)**
 
 **The land-sea continuum and antibiotic-resistant bacteria**
 
@@ -30,7 +30,7 @@ Study on the prevalence of resistance in marine bacteria isolated from sediments
 
 <br>
 
-- **Master'1 internship @<a href="https://www.univ-brest.fr/umr1078-genetique-genomique-biotechnologies/fr" target="_blank">INSERM UMR 1078</a> (_2 months from January to February 2023_)**
+- **Master'1 internship at <a href="https://www.univ-brest.fr/umr1078-genetique-genomique-biotechnologies/fr" target="_blank">INSERM UMR 1078 - Axe Microbiota </a> (_2 months from January to February 2023_)**
 
 **Molecular identification of resistance in _Veillonella_ spp. from the bronchopulmonary tract.**
 
