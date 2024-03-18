@@ -69,4 +69,4 @@ Study on the prevalence of antibiotic resistance in commensal bacterial _Veillon
 
 ##
 
-Thanks to <a href="https://github.com/Allan-gitrepos">Allan Victor</a> for this code 
+Thanks to <a href="https://github.com/Allan-gitrepos">Allan Victor</a> for this code.
