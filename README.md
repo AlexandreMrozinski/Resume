@@ -28,6 +28,8 @@ Directors : Dr. Michèle Gourmelon and Pr. Gwenaëlle Le Blay
 
 Study on the prevalence of resistance in marine bacteria isolated from sediments, water, and digestive glands of clams (_Ruditapes_ _philippinarum_), by a phenotypic and genotypic approach using qPCR and whole genome sequencing by long-reads sequencing (ONT).
 
+<br>
+
 - **Master'1 internship @<a href="https://www.univ-brest.fr/umr1078-genetique-genomique-biotechnologies/fr" target="_blank">INSERM UMR 1078</a> (_2 months from January to February 2023_)**
 
 **Molecular identification of resistance in _Veillonella_ spp. from the bronchopulmonary tract.**
