@@ -47,7 +47,7 @@ Study on the prevalence of antibiotic resistance in commensal bacterial _Veillon
 |:----|:----|
 | **Name:** | **Dr. Michèle Gourmelon** |
 | **Position:** | Researcher |
-| **Organization:** | Ifrmer DYNECO Pelagos, Plouzané, France |
+| **Organization:** | Ifremer DYNECO Pelagos, Plouzané, France |
 | **E-mail:** | <a href="mailto:Michele.Gourmelon@ifremer.fr">Michele.Gourmelon@ifremer.fr</a> |
 
 |     |     |
