@@ -41,33 +41,32 @@ Study on the prevalence of antibiotic resistance in commensal bacterial _Veillon
 
 ## 📚 Publication
 
-## 🎤 Workshop and Conferences
 ## 🎤 Workshops and Conferences
 
-* Attended the workshop on "<a href="https://maignienlab.gitlab.io/ebame/" target="_blank">EBAME: <i>Emerging Bioinformatics Approaches for Microbial Ecogenomics</i></a>" at <a href="https://www-iuem.univ-brest.fr" target="_blank">IUEM</a>, France 2023
+* Gave an **oral presentation** at the <a href="https://www.alphavisa.com/sfm/2026/fr/" target="_blank">Microbes 2026 – 21st National Congress of the French Society for Microbiology</a>, Lyon, France, 7–9 October 2026 — <i>Treated wastewater irrigation for agriculture and pathogen dissemination across the food chain and environment: a One Health study of <i>Clostridioides difficile</i></i>.
 
-* Presented a **POSTER** at the <a href="https://harmi2025.sciencesconf.org/" target="_blank">Harmi Symposium 2025</a>, Dole, France — <i>Reuse of Wastewater for Crop Irrigation: Fate of <i>Clostridioides difficile</i> on Vegetables</i>.
+* Gave an **oral presentation** at the <a href="https://harmi2026.sciencesconf.org/" target="_blank">Harmi Symposium 2026</a>, Dole, France — <i>Treated wastewater irrigation for agriculture and pathogen dissemination across the food chain and environment: a One Health study of <i>Clostridioides difficile</i></i>.
 
-* Presented a **POSTER** at the <a href="https://afem2025.sciencesconf.org/" target="_blank">French Association for Microbial Ecology (AFEM) 2025</a>, Beaune, France — <i>Reuse of Wastewater for Crop Irrigation: Fate of <i>Clostridioides difficile</i> on Vegetables</i>.
+* Gave an **oral presentation** at Anses MinION Day 2026, Lyon, France — <i>Unlocking complete genomes of <i>Clostridioides difficile</i> with long-read sequencing: from challenging DNA extraction to in silico typing</i>.
 
-* Presented a **POSTER** at <a href="https://apivale2025.colloque.inrae.fr/" target="_blank">GIS APIVALE 2025</a>, Rennes, France — <i>Reuse of Wastewater for Crop Irrigation: Fate of <i>Clostridioides difficile</i> on Vegetables</i>.
-
-* Gave an **ORAL PRESENTATION** at the <a href="https://onehcongress.innozh.fr/" target="_blank">One H Congress 2026</a>, Saint-Quay-Portrieux, France, 3–5 June 2026 — <i>Treated Wastewater Irrigation and Pathogen Dissemination Across the Food Chain and Environment: A One Health Study of <i>Clostridioides difficile</i></i>.
-
-  * Awarded a **€500 travel grant** funded by GIS APIVALE.
-
-* Presented a **POSTER** at the Anses Scientific and Doctoral Days (JSDA), Paris, France, 17–18 June 2026 — <i>Reuse of Wastewater for Crop Irrigation: Fate of <i>Clostridioides difficile</i> from Effluent to Vegetables</i>.
-
-* Presented a **POSTER** at the <a href="https://www.icds.si/" target="_blank">9th International <i>Clostridioides difficile</i> Symposium</a>, Bled, Slovenia, 8–10 September 2026 — <i>Treated Wastewater Irrigation and Pathogen Dissemination Across the Food Chain and Environment: A One Health Study of <i>Clostridioides difficile</i></i>.
+* Presented a **poster** at the <a href="https://www.icds.si/" target="_blank">9th International <i>Clostridioides difficile</i> Symposium</a>, Bled, Slovenia, 8–10 September 2026 — <i>Treated wastewater irrigation and pathogen dissemination across the food chain and environment: a One Health study of <i>Clostridioides difficile</i></i>.
 
   * Awarded a **€420 registration grant** funded by the symposium organizers.
   * Awarded a **€500 mobility grant** funded by the French Association for Microbial Ecology (AFEM).
 
-* Gave an **ORAL PRESENTATION** at the <a href="https://harmi2026.sciencesconf.org/" target="_blank">Harmi Symposium 2026</a>, Dole, France, 15–16 September 2026 — <i>Treated Wastewater Irrigation for Agriculture and Pathogen Dissemination Across the Food Chain and Environment: A One Health Study of <i>Clostridioides difficile</i></i>.
+* Presented a **poster** at the Anses Scientific and Doctoral Days (JSDA), Paris, France, 17–18 June 2026 — <i>Reuse of wastewater for crop irrigation: fate of <i>Clostridioides difficile</i> from effluent to vegetables</i>.
 
-* Gave an **ORAL PRESENTATION** at Anses MinION Day 2026, Lyon, France — <i>Unlocking Complete Genomes of <i>Clostridioides difficile</i> with Long-Read Sequencing: From Challenging DNA Extraction to In Silico Typing</i>.
+* Gave an **oral presentation** at the <a href="https://onehcongress.innozh.fr/" target="_blank">One H Congress 2026</a>, Saint-Quay-Portrieux, France, 3–5 June 2026 — <i>Treated wastewater irrigation and pathogen dissemination across the food chain and environment: a One Health study of <i>Clostridioides difficile</i></i>.
 
-* Gave an **ORAL PRESENTATION** at <a href="https://www.alphavisa.com/sfm/2026/fr/" target="_blank">Microbes 2026 – 21st National Congress of the French Society for Microbiology</a>, Lyon, France, 7–9 October 2026 — <i>Treated Wastewater Irrigation for Agriculture and Pathogen Dissemination Across the Food Chain and Environment: A One Health Study of <i>Clostridioides difficile</i></i>.
+  * Awarded a **€500 travel grant** funded by GIS APIVALE.
+
+* Presented a **poster** at <a href="https://apivale2025.colloque.inrae.fr/" target="_blank">GIS APIVALE 2025</a>, Rennes, France — <i>Reuse of wastewater for crop irrigation: fate of <i>Clostridioides difficile</i> on vegetables</i>.
+
+* Presented a **poster** at the <a href="https://afem2025.sciencesconf.org/" target="_blank">French Association for Microbial Ecology (AFEM) 2025</a>, Beaune, France — <i>Reuse of wastewater for crop irrigation: fate of <i>Clostridioides difficile</i> on vegetables</i>.
+
+* Presented a **poster** at the <a href="https://harmi2025.sciencesconf.org/" target="_blank">Harmi Symposium 2025</a>, Dole, France — <i>Reuse of wastewater for crop irrigation: fate of <i>Clostridioides difficile</i> on vegetables</i> ([HAL](https://anses.hal.science/hal-05293987/)).
+
+* Attended the workshop on "<a href="https://maignienlab.gitlab.io/ebame/" target="_blank">EBAME: <i>Emerging Bioinformatics Approaches for Microbial Ecogenomics</i></a>" at <a href="https://www-iuem.univ-brest.fr" target="_blank">IUEM</a>, France, 2023.
 
 
 
