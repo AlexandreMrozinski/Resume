@@ -30,9 +30,9 @@ PhD student working on the microbiological risks associated with the reuse of tr
 
 ## 📚 Publication
 
-* *Mrozinski A*, Le Maréchal C, Topp E. Wastewater reuse for production of plant-based foods: does spore-forming Clostridioides difficile or Clostridium perfringens represent a health risk? Applied and Environmental Microbiology. 2026;92. https://doi.org/10.1128/aem.00173-26
+* **Mrozinski A**, Le Maréchal C, Topp E. Wastewater reuse for production of plant-based foods: does spore-forming Clostridioides difficile or Clostridium perfringens represent a health risk? Applied and Environmental Microbiology. 2026;92. https://doi.org/10.1128/aem.00173-26
 
-* Álvarez-Fraga L, Amarasiri M, Arnal C, Bellanger X, Benoit P, Berendonk T, Bourdin T, Carson CA, Cytryn E, Della-Negra O, Di Cesare A, Djordjevic SP, Drigo B, Donner E, Drei P, Frigon D, Gago-Ferrero P, Gaze WH, Gin KYH, Greenwald D, Guo B, Hocquet D, Honda R, LeJeune J, Le Maréchal C, Maffettone R, Manaia CM, Martak D, Martin-Laurent F, Merlin C, *Mrozinski A*, Patureau D, Pollice A, Pruden A, van den Akker B, Vasileiadis S, Wéry N, Topp E. A framework for antimicrobial resistance risk assessment, monitoring, and risk-reduction practices along the reused water–soil–crop–human continuum. Environmental Science & Technology. 2026. https://doi.org/10.1021/acs.est.6c03391
+* Álvarez-Fraga L, Amarasiri M, Arnal C, Bellanger X, Benoit P, Berendonk T, Bourdin T, Carson CA, Cytryn E, Della-Negra O, Di Cesare A, Djordjevic SP, Drigo B, Donner E, Drei P, Frigon D, Gago-Ferrero P, Gaze WH, Gin KYH, Greenwald D, Guo B, Hocquet D, Honda R, LeJeune J, Le Maréchal C, Maffettone R, Manaia CM, Martak D, Martin-Laurent F, Merlin C, **Mrozinski A**, Patureau D, Pollice A, Pruden A, van den Akker B, Vasileiadis S, Wéry N, Topp E. A framework for antimicrobial resistance risk assessment, monitoring, and risk-reduction practices along the reused water–soil–crop–human continuum. Environmental Science & Technology. 2026. https://doi.org/10.1021/acs.est.6c03391
 
 ## 🎤 Workshops and Conferences
 
