@@ -6,7 +6,7 @@ PhD student investigating the microbiological risks associated with the reuse of
 
 ## 🎓 Education
 
-* **PhD**, Microbiology — *Reuse of wastewater for crop irrigation: fate of* *Clostridioides difficile* *and* *Clostridium perfringens* *and their antimicrobial resistance genes from the wastewater treatment plant to the consumer*, <a href="https://www.inrae.fr/" target="_blank">National Research Institute for Agriculture, Food and Environment (INRAE)</a>, Dijon, France & <a href="https://www.anses.fr/" target="_blank">French Agency for Food, Environmental and Occupational Health & Safety (ANSES)</a>, Ploufragan, France (*2024–2027*)
+* **PhD**, Microbiology — Reuse of wastewater for crop irrigation: fate of Clostridioides difficile and Clostridium perfringens and their antimicrobial resistance genes from the wastewater treatment plant to the consumer, <a href="https://www.inrae.fr/" target="_blank">National Research Institute for Agriculture, Food and Environment (INRAE)</a>, Dijon, France & <a href="https://www.anses.fr/" target="_blank">French Agency for Food, Environmental and Occupational Health & Safety (ANSES)</a>, Ploufragan, France. PhD supervisors: Dr. Edward Topp (INRAE) and Dr. Caroline Le Maréchal (ANSES) (2024–2027)
 
 * **Master's degree**, Fundamental and Applied Microbiology, University of Brest, France (*2022–2024*)
 
@@ -36,6 +36,7 @@ PhD student investigating the microbiological risks associated with the reuse of
 ## 🧫 Research Experience
 
 * **Doctoral research**, <a href="https://www.inrae.fr/" target="_blank">INRAE</a>, Dijon, France & <a href="https://www.anses.fr/" target="_blank">ANSES</a>, Ploufragan, France (*2024–2027*)
+* **Supervisors:** Dr. Edward Topp (INRAE) and Dr. Caroline Le Maréchal (ANSES)
 
   Research on the microbiological risks associated with the reuse of treated wastewater for agricultural irrigation within a One Health framework. Investigation of the prevalence, environmental persistence, toxigenicity, and antimicrobial resistance of *C. difficile* and *C. perfringens* across the wastewater–soil–plant–food continuum.
 
@@ -66,7 +67,7 @@ PhD student investigating the microbiological risks associated with the reuse of
 
 * Presented a **poster** at the Anses Scientific and Doctoral Days (JSDA), Paris, France, 17–18 June 2026 — *Reuse of wastewater for crop irrigation: fate of* *Clostridioides difficile* *from effluent to vegetables*.
 
-* Gave an **oral presentation** at the <a href="https://onehcongress.innozh.fr/" target="_blank">One H Congress 2026</a>, Saint-Quay-Portrieux, France, 3–5 June 2026 — *Treated wastewater irrigation and pathogen dissemination across the food chain and environment: a One Health study of* *Clostridioides difficile*.
+* Gave an **oral presentation** at the <a href="https://onehcongress.innozh.fr/" target="_blank">One Health Congress 2026</a>, Saint-Quay-Portrieux, France, 3–5 June 2026 — *Treated wastewater irrigation and pathogen dissemination across the food chain and environment: a One Health study of* *Clostridioides difficile*.
 
   * Awarded a **€500 travel grant** funded by GIS APIVALE.
 
