@@ -3,8 +3,7 @@
 ### **Microbiologist Student**
 
 #### Summary : 
-PhD student working on the microbiological risks associated with the reuse of treated wastewater in agriculture and their environmental impacts, within a One Health approach. Research focused on _Clostridioides difficile_ and _Clostridium perfringens_, including the study of their prevalence, environmental persistence, toxigenicity, and antibiotic resistance.<img width="470" height="72" alt="image" src="https://github.com/user-attachments/assets/919f77ae-8c9e-42ac-8f5d-8b0ea4a8db03" />
-
+PhD student working on the microbiological risks associated with the reuse of treated wastewater in agriculture and their environmental impacts, within a One Health approach. Research focused on _Clostridioides difficile_ and _Clostridium perfringens_, including the study of their prevalence, environmental persistence, toxigenicity, and antibiotic resistance.
 
 #### Technical Skills :
 
@@ -14,30 +13,30 @@ PhD student working on the microbiological risks associated with the reuse of tr
 - Culture : aerobic, anaerobic 
   
 ## 🎓 Education
-- **Ph.D.**, Microbiology - Reuse of wastewater for crop irrigation: Fate of _Clostridioides difficile_ and _Clostridium perfringens_ and their antimicrobial resistance genes from the wastewater treatment plant to the consumer, National Research Institute for Agriculture, Food and Environment (INRAE), Dijon, Burgundy, France and French Agency for Food, Environmental and Occupational Health & Safety (ANSES), Ploufragan, France (_2024 - 2027_)
-- **Master's Degree**, Fundamentale and Applied Microbiology, University of Brest - France (_2022 - 2024_)		        		
-- **Bachelor's Degree**,
-  - Earth Sciences, University of Brest - France (_2021 - 2022_)
-  - Life Sciences ; Organism and Population Biology - Environment, University of Brest - France (_2018 - 2021_)
 
-## 🧫 Research Experience
-- **Master'2 internship at <a href="https://www.ifremer.fr/fr" target="_blank">Ifremer DYNECO Pelagos</a> and <a href="https://www-iuem.univ-brest.fr/" target="_blank">IUEM LEMAR</a> (_6 months from January to June 2024_)**
+* **Ph.D.**, Microbiology — *Reuse of wastewater for crop irrigation: fate of* *Clostridioides difficile* *and* *Clostridium perfringens* *and their antimicrobial resistance genes from the wastewater treatment plant to the consumer*, <a href="https://www.inrae.fr/" target="_blank">National Research Institute for Agriculture, Food and Environment (INRAE)</a>, Dijon, Burgundy, France and <a href="https://www.anses.fr/" target="_blank">French Agency for Food, Environmental and Occupational Health & Safety (ANSES)</a>, Ploufragan, France (*2024–2027*)
 
-**The land-sea continuum and antibiotic-resistant bacteria**
+* **Master's Degree**, Fundamental and Applied Microbiology, University of Brest, France (*2022–2024*)
 
-Directors : Dr. Michèle Gourmelon and Pr. Gwenaëlle Le Blay
+  * **Master 2 internship**, <a href="https://www.ifremer.fr/fr" target="_blank">Ifremer DYNECO Pelagos</a> and <a href="https://www-iuem.univ-brest.fr/" target="_blank">IUEM LEMAR</a> (*6 months, January–June 2024*)
 
-Study on the prevalence of resistance in marine bacteria isolated from sediments, water, and digestive glands of clams (_Ruditapes_ _philippinarum_), by a phenotypic and genotypic approach using qPCR and whole genome sequencing by long-reads sequencing (ONT).
+    * *The land-sea continuum and antibiotic-resistant bacteria*
+    * **Supervisors:** Dr. Michèle Gourmelon and Prof. Gwenaëlle Le Blay
+    * Study of the prevalence of antimicrobial resistance in marine bacteria isolated from sediments, water, and digestive glands of clams (*Ruditapes philippinarum*), using phenotypic and genotypic approaches, including qPCR and long-read whole-genome sequencing (ONT).
 
-<br>
+  * **Master 1 internship**, <a href="https://www.univ-brest.fr/umr1078-genetique-genomique-biotechnologies/fr" target="_blank">INSERM UMR 1078 – Microbiota Axis</a> (*2 months, January–February 2023*)
 
-- **Master'1 internship at <a href="https://www.univ-brest.fr/umr1078-genetique-genomique-biotechnologies/fr" target="_blank">INSERM UMR 1078 - Axe Microbiota </a> (_2 months from January to February 2023_)**
+    * *Molecular identification of resistance in* *Veillonella* *spp. from the bronchopulmonary tract*
+    * **Supervisor:** Dr. Geneviève Hery-Arnaud
+    * Study of the prevalence of antimicrobial resistance in commensal *Veillonella* spp. isolated from the lungs of patients with various respiratory pathologies, including cystic fibrosis, using a genotypic approach.
 
-**Molecular identification of resistance in _Veillonella_ spp. from the bronchopulmonary tract.**
+* **Bachelor's Degree**
 
-Director : Dr. Geneviève Hery-Arnaud
+  * Earth Sciences, University of Brest, France (*2021–2022*)
+  * Life Sciences — Organism and Population Biology – Environment, University of Brest, France (*2018–2021*)
 
-Study on the prevalence of antibiotic resistance in commensal bacterial _Veillonella_ spp. isolated from the lungs of patients with various respiratory pathologies, including cystic fibrosis, using a genotypic approach.
+
+
 
 ## 📚 Publication
 
