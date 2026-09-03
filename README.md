@@ -3,17 +3,18 @@
 ### **Microbiologist Student**
 
 #### Summary : 
-Studying antimicrobial resistance, through two internships undertaken in environmental and medical fields, I have gained a solid experience in bacterial culture, molecular biology, and bioinformatics, particularly in the analysis of long and short-read sequencing products.
+PhD student working on the microbiological risks associated with the reuse of treated wastewater in agriculture and their environmental impacts, within a One Health approach. Research focused on _Clostridioides difficile_ and _Clostridium perfringens_, including the study of their prevalence, environmental persistence, toxigenicity, and antibiotic resistance.<img width="470" height="72" alt="image" src="https://github.com/user-attachments/assets/919f77ae-8c9e-42ac-8f5d-8b0ea4a8db03" />
+
 
 #### Technical Skills :
 
-- Bio-informatic : metabarcoding and metagenomics analysis
-- Sequencing : shorts and longs reads (Illumina, ONT)
+- Bio-informatic : whole genome, metabarcoding and metagenomics analysis
+- Sequencing : shorts and longs reads
 - Molecular biology : PCR, qPCR
 - Culture : aerobic, anaerobic 
   
 ## 🎓 Education
-- **Ph.D.**, looking for		  		
+- **Ph.D.**, Microbiology - Reuse of wastewater for crop irrigation: Fate of _Clostridioides difficile_ and _Clostridium perfringens_ and their antimicrobial resistance genes from the wastewater treatment plant to the consumer, National Research Institute for Agriculture, Food and Environment (INRAE), Dijon, Burgundy, France and French Agency for Food, Environmental and Occupational Health & Safety (ANSES), Ploufragan, France (_2024 - 2027_)
 - **Master's Degree**, Fundamentale and Applied Microbiology, University of Brest - France (_2022 - 2024_)		        		
 - **Bachelor's Degree**,
   - Earth Sciences, University of Brest - France (_2021 - 2022_)
@@ -38,26 +39,39 @@ Director : Dr. Geneviève Hery-Arnaud
 
 Study on the prevalence of antibiotic resistance in commensal bacterial _Veillonella_ spp. isolated from the lungs of patients with various respiratory pathologies, including cystic fibrosis, using a genotypic approach.
 
+## 📚 Publication
+
 ## 🎤 Workshop and Conferences
-- Attended the workshop on "<a href="https://maignienlab.gitlab.io/ebame/" target="_blank">EBAME : _Emerging Bioinformatics Approaches for Microbial Ecogenomics_ </a>" at <a href="https://www-iuem.univ-brest.fr" target="_blank">IUEM</a>, France 2023
+## 🎤 Workshops and Conferences
 
-## 📚 References
+* Attended the workshop on "<a href="https://maignienlab.gitlab.io/ebame/" target="_blank">EBAME: <i>Emerging Bioinformatics Approaches for Microbial Ecogenomics</i></a>" at <a href="https://www-iuem.univ-brest.fr" target="_blank">IUEM</a>, France 2023
 
-|     |     |
-|:----|:----|
-| **Name:** | **Dr. Michèle Gourmelon** |
-| **Position:** | Researcher |
-| **Organization:** | Ifremer DYNECO Pelagos, Plouzané, France |
-| **E-mail:** | <a href="mailto:Michele.Gourmelon@ifremer.fr">Michele.Gourmelon@ifremer.fr</a> |
+* Presented a **POSTER** at the <a href="https://harmi2025.sciencesconf.org/" target="_blank">Harmi Symposium 2025</a>, Dole, France — <i>Reuse of Wastewater for Crop Irrigation: Fate of <i>Clostridioides difficile</i> on Vegetables</i>.
 
-|     |     |
-|:----|:----|
-| **Name:** | **Pr. Gwenaëlle Le BLay** |
-| **Position:** | University Professor |
-| **Organization:** | IUEM LEMAR, Plouzané, France |
-| **E-mail:** | <a href="mailto:Gwenaelle.Leblay@univ-brest.fr">Gwenaelle.Leblay@univ-brest.fr</a> |
+* Presented a **POSTER** at the <a href="https://afem2025.sciencesconf.org/" target="_blank">French Association for Microbial Ecology (AFEM) 2025</a>, Beaune, France — <i>Reuse of Wastewater for Crop Irrigation: Fate of <i>Clostridioides difficile</i> on Vegetables</i>.
+
+* Presented a **POSTER** at <a href="https://apivale2025.colloque.inrae.fr/" target="_blank">GIS APIVALE 2025</a>, Rennes, France — <i>Reuse of Wastewater for Crop Irrigation: Fate of <i>Clostridioides difficile</i> on Vegetables</i>.
+
+* Gave an **ORAL PRESENTATION** at the <a href="https://onehcongress.innozh.fr/" target="_blank">One H Congress 2026</a>, Saint-Quay-Portrieux, France, 3–5 June 2026 — <i>Treated Wastewater Irrigation and Pathogen Dissemination Across the Food Chain and Environment: A One Health Study of <i>Clostridioides difficile</i></i>.
+
+  * Awarded a **€500 travel grant** funded by GIS APIVALE.
+
+* Presented a **POSTER** at the Anses Scientific and Doctoral Days (JSDA), Paris, France, 17–18 June 2026 — <i>Reuse of Wastewater for Crop Irrigation: Fate of <i>Clostridioides difficile</i> from Effluent to Vegetables</i>.
+
+* Presented a **POSTER** at the <a href="https://www.icds.si/" target="_blank">9th International <i>Clostridioides difficile</i> Symposium</a>, Bled, Slovenia, 8–10 September 2026 — <i>Treated Wastewater Irrigation and Pathogen Dissemination Across the Food Chain and Environment: A One Health Study of <i>Clostridioides difficile</i></i>.
+
+  * Awarded a **€420 registration grant** funded by the symposium organizers.
+  * Awarded a **€500 mobility grant** funded by the French Association for Microbial Ecology (AFEM).
+
+* Gave an **ORAL PRESENTATION** at the <a href="https://harmi2026.sciencesconf.org/" target="_blank">Harmi Symposium 2026</a>, Dole, France, 15–16 September 2026 — <i>Treated Wastewater Irrigation for Agriculture and Pathogen Dissemination Across the Food Chain and Environment: A One Health Study of <i>Clostridioides difficile</i></i>.
+
+* Gave an **ORAL PRESENTATION** at Anses MinION Day 2026, Lyon, France — <i>Unlocking Complete Genomes of <i>Clostridioides difficile</i> with Long-Read Sequencing: From Challenging DNA Extraction to In Silico Typing</i>.
+
+* Gave an **ORAL PRESENTATION** at <a href="https://www.alphavisa.com/sfm/2026/fr/" target="_blank">Microbes 2026 – 21st National Congress of the French Society for Microbiology</a>, Lyon, France, 7–9 October 2026 — <i>Treated Wastewater Irrigation for Agriculture and Pathogen Dissemination Across the Food Chain and Environment: A One Health Study of <i>Clostridioides difficile</i></i>.
 
 
+
+  
 ## 📞 Contact
 
 | Alexandre Mrozinski | 
