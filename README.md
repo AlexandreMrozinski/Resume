@@ -6,7 +6,8 @@ PhD student investigating the microbiological risks associated with the reuse of
 
 ## 🎓 Education
 
-* **PhD**, Microbiology — Reuse of wastewater for crop irrigation: fate of Clostridioides difficile and Clostridium perfringens and their antimicrobial resistance genes from the wastewater treatment plant to the consumer, <a href="https://www.inrae.fr/" target="_blank">National Research Institute for Agriculture, Food and Environment (INRAE)</a>, Dijon, France & <a href="https://www.anses.fr/" target="_blank">French Agency for Food, Environmental and Occupational Health & Safety (ANSES)</a>, Ploufragan, France. PhD supervisors: Dr. Edward Topp (INRAE) and Dr. Caroline Le Maréchal (ANSES) (2024–2027)
+* **PhD**, Microbiology — Reuse of wastewater for crop irrigation: fate of *Clostridioides difficile* and *Clostridium perfringens* and their antimicrobial resistance genes from the wastewater treatment plant to the consumer, <a href="https://www.inrae.fr/" target="_blank">National Research Institute for Agriculture, Food and Environment (INRAE)</a>, Dijon, France & <a href="https://www.anses.fr/" target="_blank">French Agency for Food, Environmental and Occupational Health & Safety (ANSES)</a>, Ploufragan, France (2024–2027)
+* **PhD Supervisors:** Dr. Edward Topp (INRAE) and Dr. Caroline Le Maréchal (ANSES)
 
 * **Master's degree**, Fundamental and Applied Microbiology, University of Brest, France (*2022–2024*)
 
@@ -89,11 +90,11 @@ PhD student investigating the microbiological risks associated with the reuse of
 
 ## 🏆 Awards and Grants
 
-* **€500 travel grant**, GIS APIVALE — awarded for participation in the One H Congress 2026, Saint-Quay-Portrieux, France.
-
 * **€500 mobility grant**, French Association for Microbial Ecology (AFEM) — awarded for participation in the 9th International *Clostridioides difficile* Symposium, Bled, Slovenia.
 
 * **€420 registration grant**, 9th International *Clostridioides difficile* Symposium — awarded by the symposium organizers for participation in Bled, Slovenia.
+
+* **€500 travel grant**, GIS APIVALE — awarded for participation in the One H Congress 2026, Saint-Quay-Portrieux, France.
 
 ## 📞 Contact
 
