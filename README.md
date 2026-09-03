@@ -30,17 +30,17 @@ PhD student working on the microbiological risks associated with the reuse of tr
 
 ## 📚 Publication
 
-*Mrozinski A*, Le Maréchal C, Topp E. Wastewater reuse for production of plant-based foods: does spore-forming Clostridioides difficile or Clostridium perfringens represent a health risk? Applied and Environmental Microbiology. 2026;92. https://doi.org/10.1128/aem.00173-26
+* *Mrozinski A*, Le Maréchal C, Topp E. Wastewater reuse for production of plant-based foods: does spore-forming Clostridioides difficile or Clostridium perfringens represent a health risk? Applied and Environmental Microbiology. 2026;92. https://doi.org/10.1128/aem.00173-26
 
-Álvarez-Fraga L, Amarasiri M, Arnal C, Bellanger X, Benoit P, Berendonk T, Bourdin T, Carson CA, Cytryn E, Della-Negra O, Di Cesare A, Djordjevic SP, Drigo B, Donner E, Drei P, Frigon D, Gago-Ferrero P, Gaze WH, Gin KYH, Greenwald D, Guo B, Hocquet D, Honda R, LeJeune J, Le Maréchal C, Maffettone R, Manaia CM, Martak D, Martin-Laurent F, Merlin C, *Mrozinski A*, Patureau D, Pollice A, Pruden A, van den Akker B, Vasileiadis S, Wéry N, Topp E. A framework for antimicrobial resistance risk assessment, monitoring, and risk-reduction practices along the reused water–soil–crop–human continuum. Environmental Science & Technology. 2026. https://doi.org/10.1021/acs.est.6c03391
+* Álvarez-Fraga L, Amarasiri M, Arnal C, Bellanger X, Benoit P, Berendonk T, Bourdin T, Carson CA, Cytryn E, Della-Negra O, Di Cesare A, Djordjevic SP, Drigo B, Donner E, Drei P, Frigon D, Gago-Ferrero P, Gaze WH, Gin KYH, Greenwald D, Guo B, Hocquet D, Honda R, LeJeune J, Le Maréchal C, Maffettone R, Manaia CM, Martak D, Martin-Laurent F, Merlin C, *Mrozinski A*, Patureau D, Pollice A, Pruden A, van den Akker B, Vasileiadis S, Wéry N, Topp E. A framework for antimicrobial resistance risk assessment, monitoring, and risk-reduction practices along the reused water–soil–crop–human continuum. Environmental Science & Technology. 2026. https://doi.org/10.1021/acs.est.6c03391
 
 ## 🎤 Workshops and Conferences
 
 * Gave an **oral presentation** at the <a href="https://www.alphavisa.com/sfm/2026/fr/" target="_blank">Microbes 2026 – 21st National Congress of the French Society for Microbiology</a>, Lyon, France, 7–9 October 2026 — <i>Treated wastewater irrigation for agriculture and pathogen dissemination across the food chain and environment: a One Health study of <i>Clostridioides difficile</i></i>.
 
-* Gave an **oral presentation** at the <a href="https://harmi2026.sciencesconf.org/" target="_blank">Harmi Symposium 2026</a>, Dole, France — <i>Treated wastewater irrigation for agriculture and pathogen dissemination across the food chain and environment: a One Health study of <i>Clostridioides difficile</i></i>.
-
 * Gave an **oral presentation** at Anses MinION Day 2026, Lyon, France — <i>Unlocking complete genomes of <i>Clostridioides difficile</i> with long-read sequencing: from challenging DNA extraction to in silico typing</i>.
+  
+* Gave an **oral presentation** at the <a href="https://harmi2026.sciencesconf.org/" target="_blank">Harmi Symposium 2026</a>, Dole, France — <i>Treated wastewater irrigation for agriculture and pathogen dissemination across the food chain and environment: a One Health study of <i>Clostridioides difficile</i></i>.
 
 * Presented a **poster** at the <a href="https://www.icds.si/" target="_blank">9th International <i>Clostridioides difficile</i> Symposium</a>, Bled, Slovenia, 8–10 September 2026 — <i>Treated wastewater irrigation and pathogen dissemination across the food chain and environment: a One Health study of <i>Clostridioides difficile</i></i>.
 
