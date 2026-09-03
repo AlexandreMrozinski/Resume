@@ -70,11 +70,11 @@ PhD student investigating the microbiological risks associated with the reuse of
 
   * Awarded a **€500 travel grant** funded by GIS APIVALE.
 
-* Presented a **poster** at <a href="https://apivale2025.colloque.inrae.fr/" target="_blank">GIS APIVALE 2025</a>, Rennes, France — *Reuse of wastewater for crop irrigation: fate of* *Clostridioides difficile* *on vegetables*.
+* Presented a poster at <a href="https://apivale2025.colloque.inrae.fr/" target="_blank">GIS APIVALE 2025</a>, Rennes, France, 3–4 December 2025 — Reuse of wastewater for crop irrigation: fate of Clostridioides difficile on vegetables.
 
-* Presented a **poster** at the <a href="https://afem2025.sciencesconf.org/" target="_blank">French Association for Microbial Ecology (AFEM) 2025</a>, Beaune, France — *Reuse of wastewater for crop irrigation: fate of* *Clostridioides difficile* *on vegetables*.
+* Presented a poster at the <a href="https://afem2025.sciencesconf.org/" target="_blank">French Association for Microbial Ecology (AFEM) 2025</a>, Beaune, France, 18–21 November 2025 — Reuse of wastewater for crop irrigation: fate of Clostridioides difficile on vegetables.
 
-* Presented a **poster** at the <a href="https://harmi2025.sciencesconf.org/" target="_blank">Harmi Symposium 2025</a>, Dole, France — *Reuse of wastewater for crop irrigation: fate of* *Clostridioides difficile* *on vegetables* ([HAL](https://anses.hal.science/hal-05293987/)).
+* Presented a poster at the <a href="https://harmi2025.sciencesconf.org/" target="_blank">Harmi Symposium 2025</a>, Dole, France, 22–23 September 2025 — Reuse of wastewater for crop irrigation: fate of Clostridioides difficile on vegetables (HAL).
 
 * Attended the workshop on "<a href="https://maignienlab.gitlab.io/ebame/" target="_blank">EBAME: *Emerging Bioinformatics Approaches for Microbial Ecogenomics*</a>" at <a href="https://www-iuem.univ-brest.fr" target="_blank">IUEM</a>, France, 2023.
 
