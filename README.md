@@ -1,16 +1,9 @@
 # Alexandre Mrozinski <img src="https://github.com/AlexandreMrozinski/Resume/assets/114568851/a3727ac1-1fbd-44e2-9bb2-c35b164323ab" alt="Image" align="right" width="200"/>
 
-### **Microbiologist Student**
+### **PhD Student in Microbiology**
 
 #### Summary : 
 PhD student working on the microbiological risks associated with the reuse of treated wastewater in agriculture and their environmental impacts, within a One Health approach. Research focused on _Clostridioides difficile_ and _Clostridium perfringens_, including the study of their prevalence, environmental persistence, toxigenicity, and antibiotic resistance.
-
-#### Technical Skills :
-
-- Bio-informatic : whole genome, metabarcoding and metagenomics analysis
-- Sequencing : shorts and longs reads
-- Molecular biology : PCR, qPCR
-- Culture : aerobic, anaerobic 
   
 ## 🎓 Education
 
@@ -37,9 +30,9 @@ PhD student working on the microbiological risks associated with the reuse of tr
 
 ## 📚 Publication
 
-Mrozinski A, Le Maréchal C, Topp E. Wastewater reuse for production of plant-based foods: does spore-forming Clostridioides difficile or Clostridium perfringens represent a health risk? Applied and Environmental Microbiology. 2026;92. https://doi.org/10.1128/aem.00173-26
+*Mrozinski A*, Le Maréchal C, Topp E. Wastewater reuse for production of plant-based foods: does spore-forming Clostridioides difficile or Clostridium perfringens represent a health risk? Applied and Environmental Microbiology. 2026;92. https://doi.org/10.1128/aem.00173-26
 
-Álvarez-Fraga L, Amarasiri M, Arnal C, Bellanger X, Benoit P, Berendonk T, Bourdin T, Carson CA, Cytryn E, Della-Negra O, Di Cesare A, Djordjevic SP, Drigo B, Donner E, Drei P, Frigon D, Gago-Ferrero P, Gaze WH, Gin KYH, Greenwald D, Guo B, Hocquet D, Honda R, LeJeune J, Le Maréchal C, Maffettone R, Manaia CM, Martak D, Martin-Laurent F, Merlin C, Mrozinski A, Patureau D, Pollice A, Pruden A, van den Akker B, Vasileiadis S, Wéry N, Topp E. A framework for antimicrobial resistance risk assessment, monitoring, and risk-reduction practices along the reused water–soil–crop–human continuum. Environmental Science & Technology. 2026. https://doi.org/10.1021/acs.est.6c03391
+Álvarez-Fraga L, Amarasiri M, Arnal C, Bellanger X, Benoit P, Berendonk T, Bourdin T, Carson CA, Cytryn E, Della-Negra O, Di Cesare A, Djordjevic SP, Drigo B, Donner E, Drei P, Frigon D, Gago-Ferrero P, Gaze WH, Gin KYH, Greenwald D, Guo B, Hocquet D, Honda R, LeJeune J, Le Maréchal C, Maffettone R, Manaia CM, Martak D, Martin-Laurent F, Merlin C, *Mrozinski A*, Patureau D, Pollice A, Pruden A, van den Akker B, Vasileiadis S, Wéry N, Topp E. A framework for antimicrobial resistance risk assessment, monitoring, and risk-reduction practices along the reused water–soil–crop–human continuum. Environmental Science & Technology. 2026. https://doi.org/10.1021/acs.est.6c03391
 
 ## 🎤 Workshops and Conferences
 
@@ -68,14 +61,49 @@ Mrozinski A, Le Maréchal C, Topp E. Wastewater reuse for production of plant-ba
 
 * Attended the workshop on "<a href="https://maignienlab.gitlab.io/ebame/" target="_blank">EBAME: <i>Emerging Bioinformatics Approaches for Microbial Ecogenomics</i></a>" at <a href="https://www-iuem.univ-brest.fr" target="_blank">IUEM</a>, France, 2023.
 
+## 🧫 Research Experience
 
+* **PhD research**, <a href="https://www.inrae.fr/" target="_blank">INRAE</a>, Dijon, France & <a href="https://www.anses.fr/" target="_blank">ANSES</a>, Ploufragan, France (*2024–2027*)
 
-  
+  **Reuse of wastewater for crop irrigation: fate of *Clostridioides difficile* and *Clostridium perfringens* and their antimicrobial resistance genes from the wastewater treatment plant to the consumer**
+
+  Research on the microbiological risks associated with the reuse of treated wastewater for agricultural irrigation within a One Health framework. Investigation of the prevalence, persistence, toxigenicity, and antimicrobial resistance of *C. difficile* and *C. perfringens* across the wastewater–soil–plant–food continuum.
+
+* **Master 2 research internship**, <a href="https://www.ifremer.fr/fr" target="_blank">Ifremer DYNECO Pelagos</a> & <a href="https://www-iuem.univ-brest.fr/" target="_blank">IUEM LEMAR</a> (*January–June 2024*)
+
+  **The land-sea continuum and antibiotic-resistant bacteria**
+
+  Investigation of antimicrobial resistance in marine bacteria isolated from sediments, water, and digestive glands of clams (*Ruditapes philippinarum*), combining phenotypic testing, qPCR, and long-read whole-genome sequencing (ONT).
+
+* **Master 1 research internship**, <a href="https://www.univ-brest.fr/umr1078-genetique-genomique-biotechnologies/fr" target="_blank">INSERM UMR 1078 – Microbiota Axis</a> (*January–February 2023*)
+
+  **Molecular identification of resistance in *Veillonella* spp. from the bronchopulmonary tract**
+
+  Investigation of antimicrobial resistance in commensal *Veillonella* spp. isolated from the lungs of patients with various respiratory pathologies, using a genotypic approach.
+
+  ## 🧬 Technical Skills & Bioinformatics
+
+- **Microbiology:** aerobic and anaerobic bacterial culture
+- **Molecular biology:** DNA extraction, PCR, qPCR
+- **Sequencing:** short-read and long-read sequencing, Oxford Nanopore Technologies (ONT), Illumina, PacBio
+- **Bioinformatics:** whole-genome sequencing analysis, metabarcoding, metagenomics
+- **Programming & command line:** R, Python, Bash, Linux
+
+## Awards and Grants
+
+* **€500 travel grant**, GIS APIVALE — awarded for participation in the One H Congress 2026, Saint-Quay-Portrieux, France.
+
+* **€420 registration grant**, 9th International *Clostridioides difficile* Symposium — awarded by the symposium organizers for participation in Bled, Slovenia.
+
+* **€500 mobility grant**, French Association for Microbial Ecology (AFEM) — awarded for participation in the 9th International *Clostridioides difficile* Symposium, Bled, Slovenia.
+
 ## 📞 Contact
 
-| Alexandre Mrozinski | 
-| <a href="mailto:alexandremrski@gmail.com">alexandremrski@gmail.com</a> | 
-| <a href="https://linkedin.com/in/alexandre-mrozinski-0a7026239/" target="_blank">LinkedIn</a>  | 
+| Alexandre Mrozinski |
+| <a href="mailto:alexandremrski@gmail.com">alexandremrski@gmail.com</a> |
+| <a href="https://orcid.org/my-orcid?orcid=0009-0009-2128-9126" target="_blank">ORCID</a> |
+| <a href="https://www.researchgate.net/profile/Alexandre-Mrozinski?ev=hdr_xprf" target="_blank">ResearchGate</a> |
+| <a href="https://linkedin.com/in/alexandre-mrozinski-0a7026239/" target="_blank">LinkedIn</a> |
 
 <br>
 <br>
