@@ -6,7 +6,7 @@ PhD student investigating the microbiological risks associated with the reuse of
 
 ## 🎓 Education
 
-* **PhD**, Microbiology — *Reuse of wastewater for crop irrigation: fate of* *Clostridioides difficile* *and* *Clostridium perfringens* *and their antimicrobial resistance genes from the wastewater treatment plant to the consumer*, <a href="https://www.inrae.fr/" target="_blank">National Research Institute for Agriculture, Food and Environment (INRAE)</a>, Dijon, Burgundy, France & <a href="https://www.anses.fr/" target="_blank">French Agency for Food, Environmental and Occupational Health & Safety (ANSES)</a>, Ploufragan, France (*2024–2027*)
+* **PhD**, Microbiology — *Reuse of wastewater for crop irrigation: fate of* *Clostridioides difficile* *and* *Clostridium perfringens* *and their antimicrobial resistance genes from the wastewater treatment plant to the consumer*, <a href="https://www.inrae.fr/" target="_blank">National Research Institute for Agriculture, Food and Environment (INRAE)</a>, Dijon, France & <a href="https://www.anses.fr/" target="_blank">French Agency for Food, Environmental and Occupational Health & Safety (ANSES)</a>, Ploufragan, France (*2024–2027*)
 
 * **Master's degree**, Fundamental and Applied Microbiology, University of Brest, France (*2022–2024*)
 
