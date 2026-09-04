@@ -78,7 +78,9 @@ PhD student investigating the microbiological risks associated with the reuse of
 
 * Presented a poster at the <a href="https://harmi2025.sciencesconf.org/" target="_blank">Harmi Symposium 2025</a>, Dole, France, 22–23 September 2025 — Reuse of wastewater for crop irrigation: fate of Clostridioides difficile on vegetables (HAL).
 
-* Attended the workshop on "<a href="https://maignienlab.gitlab.io/ebame/" target="_blank">EBAME: *Emerging Bioinformatics Approaches for Microbial Ecogenomics*</a>" at <a href="https://www-iuem.univ-brest.fr" target="_blank">IUEM</a>, France, 2023.
+* Attended the workshop on "<a href="https://amr-and-water-reuse.workshop.inrae.fr/international-workshop-on-water-reuse-in-agriculture-and-the-risk-of-antimicrobial-resistance" target="_blank">International Workshop on Water Reuse in Agriculture and the Risk of Antimicrobial Resistance</a>" at <a href="https://www.inrae.fr/" target="_blank">INRAE</a>, Dijon, France, 22–24 October 2024.
+
+* Attended the workshop on "<a href="https://maignienlab.gitlab.io/ebame/" target="_blank">EBAME: *Emerging Bioinformatics Approaches for Microbial Ecogenomics*</a>" at <a href="https://www-iuem.univ-brest.fr" target="_blank">IUEM</a>, Brest, France, 21 October–4 November 2023.
 
 ## 🧬 Technical Skills & Bioinformatics
 
