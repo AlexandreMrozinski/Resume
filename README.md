@@ -30,9 +30,11 @@ PhD student investigating the microbiological risks associated with the reuse of
 
 ## 📚 Publications
 
-* **Mrozinski A**, Le Maréchal C, Topp E. Wastewater reuse for production of plant-based foods: does spore-forming *Clostridioides difficile* or *Clostridium perfringens* represent a health risk? *Applied and Environmental Microbiology*. 2026;92:e00173-26. <a href="https://doi.org/10.1128/aem.00173-26" target="_blank">https://doi.org/10.1128/aem.00173-26</a>
+* **Mrozinski A**, Martak D, Reboul G, Ehmig M, Diancourt L, Barbut F, Le Maréchal C, Topp E. Comparative evaluation of three high-molecular-weight DNA extraction kits for Oxford Nanopore sequencing of Clostridioides difficile and Clostridium perfringens. Microbiology Spectrum. 2026. <a href="https://doi.org/10.1128/spectrum.02407-26" target="_blank">https://doi.org/10.1128/spectrum.02407-26</a>
 
 * Álvarez-Fraga L, Amarasiri M, Arnal C, Bellanger X, Benoit P, Berendonk T, Bourdin T, Carson CA, Cytryn E, Della-Negra O, Di Cesare A, Djordjevic SP, Drigo B, Donner E, Drei P, Frigon D, Gago-Ferrero P, Gaze WH, Gin KYH, Greenwald D, Guo B, Hocquet D, Honda R, LeJeune J, Le Maréchal C, Maffettone R, Manaia CM, Martak D, Martin-Laurent F, Merlin C, **Mrozinski A**, Patureau D, Pollice A, Pruden A, van den Akker B, Vasileiadis S, Wéry N, Topp E. A framework for antimicrobial resistance risk assessment, monitoring, and risk-reduction practices along the reused water–soil–crop–human continuum. *Environmental Science & Technology*. 2026. <a href="https://doi.org/10.1021/acs.est.6c03391" target="_blank">https://doi.org/10.1021/acs.est.6c03391</a>
+
+* **Mrozinski A**, Le Maréchal C, Topp E. Wastewater reuse for production of plant-based foods: does spore-forming *Clostridioides difficile* or *Clostridium perfringens* represent a health risk? *Applied and Environmental Microbiology*. 2026;92:e00173-26. <a href="https://doi.org/10.1128/aem.00173-26" target="_blank">https://doi.org/10.1128/aem.00173-26</a>
 
 ## 🧫 Research Experience
 
