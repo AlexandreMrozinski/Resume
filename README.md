@@ -57,13 +57,13 @@ PhD student investigating the microbiological risks associated with the reuse of
 
 ## 🎤 Workshops and Conferences
 
-* Gave an **oral presentation** at the <a href="https://www.alphavisa.com/sfm/2026/fr/" target="_blank">Microbes 2026 – 21st National Congress of the French Society for Microbiology</a>, Lyon, France, 7–9 October 2026 — *Treated wastewater irrigation for agriculture and pathogen dissemination across the food chain and environment: a One Health study of* *Clostridioides difficile*.
+* Gave an **oral presentation** at the <a href="https://www.alphavisa.com/sfm/2026/fr/" target="_blank">Microbes 2026 - 21st National Congress of the French Society for Microbiology</a>, Lyon, France, 7–9 October 2026 — *Treated wastewater irrigation for agriculture and pathogen dissemination across the food chain and environment: a One Health study of* *Clostridioides difficile*.
 
-* Gave an **oral presentation** at Anses MinION Day, Lyon, France, 6 October 2026 — *Unlocking complete genomes of* *Clostridioides difficile* *with long-read sequencing: from challenging DNA extraction to in silico typing*.
+* Gave an **oral presentation** at Anses MinION Day, Lyon, France, 6 October 2026 - *Unlocking complete genomes of* *Clostridioides difficile* *with long-read sequencing: from challenging DNA extraction to in silico typing*.
   
-* Gave an **oral presentation** at the <a href="https://harmi2026.sciencesconf.org/" target="_blank">Harmi Symposium 2026</a>, Dole, France, 15–16 September 2026 — *Treated wastewater irrigation for agriculture and pathogen dissemination across the food chain and environment: a One Health study of* *Clostridioides difficile*.
+* Gave an **oral presentation** at the <a href="https://harmi2026.sciencesconf.org/" target="_blank">Harmi Symposium 2026</a>, Dole, France, 15–16 September 2026 - *Treated wastewater irrigation for agriculture and pathogen dissemination across the food chain and environment: a One Health study of* *Clostridioides difficile*.
 
-* Presented a **poster** at the <a href="https://www.icds.si/" target="_blank">9th International *Clostridioides difficile* Symposium</a>, Bled, Slovenia, 8–10 September 2026 — *Treated wastewater irrigation and pathogen dissemination across the food chain and environment: a One Health study of* *Clostridioides difficile*.
+* Presented a **poster** at the <a href="https://www.icds.si/" target="_blank">9th International *Clostridioides difficile* Symposium</a>, Bled, Slovenia, 8–10 September 2026 - *Treated wastewater irrigation and pathogen dissemination across the food chain and environment: a One Health study of* *Clostridioides difficile*.
 
   * Awarded a **€420 registration grant** funded by the symposium organizers.
   * Awarded a **€500 mobility grant** funded by the French Association for Microbial Ecology (AFEM).
