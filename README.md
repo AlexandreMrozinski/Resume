@@ -68,17 +68,17 @@ PhD student investigating the microbiological risks associated with the reuse of
   * Awarded a **€420 registration grant** funded by the symposium organizers.
   * Awarded a **€500 mobility grant** funded by the French Association for Microbial Ecology (AFEM).
 
-* Presented a **poster** at the Anses Scientific and Doctoral Days (JSDA), Paris, France, 17–18 June 2026 — *Reuse of wastewater for crop irrigation: fate of* *Clostridioides difficile* *from effluent to vegetables*.
+* Presented a **poster** at the Anses Scientific and Doctoral Days (JSDA), Paris, France, 17–18 June 2026 - *Reuse of wastewater for crop irrigation: fate of* *Clostridioides difficile* *from effluent to vegetables*.
 
-* Gave an **oral presentation** at the <a href="https://onehcongress.innozh.fr/" target="_blank">One Health Congress 2026</a>, Saint-Quay-Portrieux, France, 3–5 June 2026 — *Treated wastewater irrigation and pathogen dissemination across the food chain and environment: a One Health study of* *Clostridioides difficile*.
+* Gave an **oral presentation** at the <a href="https://onehcongress.innozh.fr/" target="_blank">One Health Congress 2026</a>, Saint-Quay-Portrieux, France, 3–5 June 2026 - *Treated wastewater irrigation and pathogen dissemination across the food chain and environment: a One Health study of* *Clostridioides difficile*.
 
   * Awarded a **€500 travel grant** funded by GIS APIVALE.
 
-* Presented a poster at <a href="https://apivale2025.colloque.inrae.fr/" target="_blank">GIS APIVALE 2025</a>, Rennes, France, 3–4 December 2025 — Reuse of wastewater for crop irrigation: fate of Clostridioides difficile on vegetables.
+* Presented a poster at <a href="https://apivale2025.colloque.inrae.fr/" target="_blank">GIS APIVALE 2025</a>, Rennes, France, 3–4 December 2025 - *Reuse of wastewater for crop irrigation: fate of Clostridioides difficile on vegetables*.
 
-* Presented a poster at the <a href="https://afem2025.sciencesconf.org/" target="_blank">French Association for Microbial Ecology (AFEM) 2025</a>, Beaune, France, 18–21 November 2025 — Reuse of wastewater for crop irrigation: fate of Clostridioides difficile on vegetables.
+* Presented a poster at the <a href="https://afem2025.sciencesconf.org/" target="_blank">French Association for Microbial Ecology (AFEM) 2025</a>, Beaune, France, 18–21 November 2025 - *Reuse of wastewater for crop irrigation: fate of Clostridioides difficile on vegetables*.
 
-* Presented a poster at the <a href="https://harmi2025.sciencesconf.org/" target="_blank">Harmi Symposium 2025</a>, Dole, France, 22–23 September 2025 — Reuse of wastewater for crop irrigation: fate of Clostridioides difficile on vegetables (HAL).
+* Presented a poster at the <a href="https://harmi2025.sciencesconf.org/" target="_blank">Harmi Symposium 2025</a>, Dole, France, 22–23 September 2025 - *Reuse of wastewater for crop irrigation: fate of Clostridioides difficile on vegetables*.
 
 * Attended the workshop on "<a href="https://amr-and-water-reuse.workshop.inrae.fr/international-workshop-on-water-reuse-in-agriculture-and-the-risk-of-antimicrobial-resistance" target="_blank">International Workshop on Water Reuse in Agriculture and the Risk of Antimicrobial Resistance</a>" at <a href="https://www.inrae.fr/" target="_blank">INRAE</a>, Dijon, France, 22–24 October 2024.
 
