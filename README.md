@@ -20,7 +20,7 @@ PhD student investigating the microbiological risks associated with the reuse of
   * **Master 1 internship**, <a href="https://www.univ-brest.fr/umr1078-genetique-genomique-biotechnologies/fr" target="_blank">INSERM UMR 1078 – Microbiota Axis</a> (*2 months, January–February 2023*)
 
     * *Molecular identification of resistance in* *Veillonella* *spp. from the bronchopulmonary tract*
-    * **Supervisor:** Dr. Geneviève Hery-Arnaud
+    * **Supervisor:** Prof. Geneviève Hery-Arnaud
     * Study of the prevalence of antimicrobial resistance in commensal *Veillonella* spp. isolated from the lungs of patients with various respiratory pathologies, including cystic fibrosis, using a genotypic approach.
 
 * **Bachelor's degree**
