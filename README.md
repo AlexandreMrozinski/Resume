@@ -1,4 +1,4 @@
-# Alexandre Mrozinski <img width="3024" height="3024" alt="IMG_3486-modified" src="https://github.com/user-attachments/assets/66999114-268a-4b57-9164-88a3a5f4ffc2" alt="Image" align="right" width="200"/>
+# Alexandre Mrozinski <img src="https://github.com/user-attachments/assets/66999114-268a-4b57-9164-88a3a5f4ffc2" alt="Image" align="right" width="200"/>
 
 ### **PhD Student in Microbiology**
 
